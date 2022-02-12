@@ -10,8 +10,6 @@
 
 - 🌱 I’m interested in **Web development,Space Science,Sports.**
 
-- 📫 How to reach me **aj958601@gmail.com**
-
 - ⚡ **Apart From that,I like reading the books My Favourite Book is "Learning How to Fly" Life lession for youth by A.P.J kalam.**
 
 ## 🚀 Languages and Tools:
