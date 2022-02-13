@@ -66,4 +66,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AbhishekTesla">
 </a>
-<!-- <a href="https://github.com/AbhishekTesla?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekTesla?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/AbhishekTesla?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekTesla?label=Followers&style=social" alt="GitHub Badge"></a>
