@@ -67,4 +67,4 @@
     <img src="https://komarev.com/ghpvc/?username=AbhishekTesla">
 </a>
 <a href="https://github.com/AbhishekTesla?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekTesla?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/abhishektesla?tab=followers"><img src="https://img.shields.io/twitter/followers/abhishektesla?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/abhishektesla?tab=followers"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GitHub Badge"></a>
