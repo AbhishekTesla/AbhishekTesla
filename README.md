@@ -58,7 +58,7 @@
 
 <a href = "https://www.linkedin.com/in/abhishek-jaiswar-59865b21a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/abhishektesla"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhishek_jaiswar_2001/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png height="20px"/></a>
+<a href = "https://www.instagram.com/abhishek_jaiswar_2001/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png height="20"/></a>
 
 
 </p>
