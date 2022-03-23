@@ -60,7 +60,7 @@
 <a href = "https://www.linkedin.com/in/abhishek-jaiswar-59865b21a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/abhishektesla"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/abhishek_jaiswar_2001/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="45"/></a>
-
+<a href = "https://www.instagram.com/abhishek_jaiswar_2001/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png" height="45"/></a>
 
 </p>
 
@@ -69,5 +69,6 @@
     <img src="https://komarev.com/ghpvc/?username=AbhishekTesla">
 </a>
 <a href="https://github.com/AbhishekTesla?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekTesla?label=Followers&style=social" alt="GitHub Badge"></a>
-<i class="fa-brands fa-hackerrank"></i>
+
+
 
