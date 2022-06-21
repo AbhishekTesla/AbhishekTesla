@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1647876381~exp=1647876981~hmac=0775f056c750a380ce652555776082c0fd07bbffcd1df9443e4d28458953b454&w=900" height="400px"/></a>
 
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Abhishek Jaiswar </h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" hight="10px" width="10px">, I'm Abhishek Jaiswar </h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.Pursuing Computer Engineering From Terna Engineering College,Nerul.</h3>
 
 
